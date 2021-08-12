@@ -1,5 +1,7 @@
 # Water-Quality
 
+![water]w1.jpg)
+
 
 <h4>Machine learning model for classifying water quality</h4>
 
