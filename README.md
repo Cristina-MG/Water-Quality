@@ -1,6 +1,6 @@
 # Water-Quality
 
-![water]w1.jpg)
+![water]https://gwf-wasser.de/wp-content/uploads/2020/12/splash-1991842_1280-400x250.jpg)
 
 
 <h4>Machine learning model for classifying water quality</h4>
